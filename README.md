@@ -1,4 +1,4 @@
-# MrRobot-Logo-Project
+# Mr Robot Logo Project
 > **work-in-progress - feel free to contribute!**
 
 A project to recreate and collect the fictional Logos of the "Mr Robot" TV Show as Vector Files
